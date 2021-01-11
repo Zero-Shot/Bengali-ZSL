@@ -1,0 +1,10 @@
+Horizontal line
+verticle line
+up semi-circle
+down semi-circle
+left semi circle
+right semi-circle
+\
+/
+dot
+loop

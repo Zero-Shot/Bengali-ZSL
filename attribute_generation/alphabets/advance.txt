@@ -1,0 +1,15 @@
+Horizontal line
+verticle line
+up semi-circle
+down semi-circle
+left semi circle
+right semi-circle
+\
+/
+Tild ~
+dot below
+dot above
+loop above
+loop below
+left top hood
+right top hood
