@@ -1,0 +1,3 @@
+[submodule "ESZSL"]
+	path = ESZSL
+	url = https://github.com/Zero-Shot/Zero-Shot-Learning
